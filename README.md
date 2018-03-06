@@ -1,0 +1,2 @@
+# EasyMail
+only documents
